@@ -30,7 +30,7 @@ cd tiebaspider/
 
 3. 执行项目
 
-scrapy crawl dbb
+scrapy crawl tb
 
 4. 输入贴吧名
 
